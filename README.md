@@ -22,3 +22,6 @@ requests and send responses to standard HTTP clients, such as browsers and the c
 - ### Handler (module)
     - Processing the incoming request and return an HTTP response
 
+Run
+
+`cargo run -p httpserver`
